@@ -21,7 +21,8 @@ Instrucciones:
 
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
-
+Juan David Zamorano Zapata
+Daniel Suárez Tibaquira
 Juan David Zamorano Zapatagit
 Juan Jose Pineda Giraldo
 Juan David Zamorano Zapata
@@ -33,4 +34,6 @@ Fredy Hernando Quintero Salazar
 Juan Esteban Echeverri Herrera
 Simon Pelaez Loaiza
 Juan David Orozco Quintero
+Marlon Escobar Perez
+Henry Alexander Vanegas Tabares
 
