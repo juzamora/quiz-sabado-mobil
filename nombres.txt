@@ -33,6 +33,7 @@ Johan Sebastian Monsalve Castro
 Fredy Hernando Quintero Salazar
 Juan Esteban Echeverri Herrera
 Simon Pelaez Loaiza
+Criztian Camilo Rojo
 Juan David Orozco Quintero
 Marlon Escobar Perez
 Thomas Hernández Orozco
