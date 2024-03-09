@@ -21,10 +21,12 @@ Instrucciones:
 
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
+
+Juan David Zamorano Zapatagit
+Juan Jose Pineda Giraldo
 Juan David Zamorano Zapata
 Fredy Hernando Quintero Salazar
 Gabriel Arturo Oquendo Hernández
 Johan Sebastian Monsalve Castro
 Fredy Hernando Quintero Salazar
 Juan Esteban Echeverri Herrera
-
